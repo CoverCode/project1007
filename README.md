@@ -1,1 +1,2 @@
 initName
+这是我第一次写rereadme
